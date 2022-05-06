@@ -37,7 +37,6 @@ export function FeedbackContentStep({
             screenshot,
         });
         setIsSendingFeedback(false);
-
         onFeedbackSent();
     }
 
